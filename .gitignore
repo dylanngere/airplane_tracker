@@ -1,0 +1,14 @@
+# --- Security ---
+.env
+.env.local
+
+# --- Python Junk ---
+__pycache__/
+*.pyc
+
+# --- Editor Settings (Optional but recommended) ---
+.vscode/
+.idea/
+
+# --- Logs ---
+*.log
